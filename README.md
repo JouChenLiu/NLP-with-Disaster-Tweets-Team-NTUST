@@ -4,7 +4,8 @@
 * Goal<p/>
   Build multiple models to predict which Tweets are about real disasters and which are not.
 * The datasets<p/>
-  [Natural Language Processing with Disaster Tweets | Kaggle](https://www.kaggle.com/competitions/nlp-getting-started)
+  train.csv (the training set)<p/>
+  Source: [Natural Language Processing with Disaster Tweets | Kaggle](https://www.kaggle.com/competitions/nlp-getting-started)
 * Four methods<p/>
   1. XGBoost with TF-IDF
   2. LSTM with Word2Vec embeddings
